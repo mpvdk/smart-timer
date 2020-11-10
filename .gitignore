@@ -1,3 +1,4 @@
 /Debug
 *.xml
-*.proj
+*.cproj
+*backup*
